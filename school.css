@@ -35,3 +35,8 @@ button{
     border-radius: 10px;
     background-color: rgb(32, 211, 211);
 }
+#img{
+    border: 2px solid red;
+    height: 400px;
+    width: 1517px;
+}
